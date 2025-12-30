@@ -1,0 +1,1 @@
+This target audience of this code of ethics is computer scientists interested in the ethics of their work. There is a high chance that this document can be generalized to most computer focused professions, although they aren't the target.
