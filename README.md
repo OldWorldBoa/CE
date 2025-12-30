@@ -9,7 +9,7 @@ This document is born out of a university classroom teaching professional practi
 1. Introduction
   - [Mission Statement](Introduction/Mission%20Statement.md)
   - [Vision Statement](Introduction/Vision%20Statement.md)
-  - Target Audience
+  - [Target Audience](Introduction/Target%20Audience.md)
   - Interpretation (Organization and Important Definitions)
 2. Core Values
   1. Adherence to the core values
