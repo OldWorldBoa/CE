@@ -7,7 +7,7 @@ This document is born out of a university classroom teaching professional practi
 
 ## Table of Contents
 1. Introduction
-  - (Mission Statement)[./introduction/mission statement.md]
+  - [Mission Statement](Introduction/MissionStatement.md)
   - Vision Statement
   - Target Audience
   - Interpretation (Organization and Important Definitions)
