@@ -12,14 +12,13 @@ This document is born out of a university classroom teaching professional practi
     - [Target Audience](Introduction/Target%20Audience.md)
     - Interpretation (Organization and Important Definitions)
 2. Core Values
-
-  1. Adherence to the core values
+  - Adherence to the core values
       - Honesty
       - Compassion
       - Respect
       - Responsibility
       - Excellence
-  2. Issues with repect to the core values
+  - Issues with repect to the core values
       - Plaigiarism
       - Conflicts of Interest
         - Definition
@@ -28,7 +27,6 @@ This document is born out of a university classroom teaching professional practi
         - Computer Scientists as Advocates
       - Termination of services
       - Disclosure and Privacy
-
 4. Marketing services as a Computer Scientist
 5. Public appearance and statements
 6. Case Studies on Questionable Conduct
