@@ -1,3 +1,4 @@
+# Core Values
 The core values of the computer science professional are: honesty, compassion, responsibility, and excellence.
 
 ## Honesty
