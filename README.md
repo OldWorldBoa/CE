@@ -2,10 +2,8 @@
 The Code of Ethics for the Assciation of Computer Science Ethics
 
 ## Table of Contents
-- [Introduction](<Introduction/readme.md>)
-  - [Mission Statement](<Introduction/Mission Statement.md>)
-  - [Vision Statement](<Introduction/Vision Statement.md>)
-  - [Target Audience](<Introduction/Target Audience.md>)
+- [Introduction](Introduction.md)
+- [Mission and Vision](<Mission and Vision.md>)
 - [Core Values](<Core Values/README.md>)
   - [Honesty](<Core Values/Honesty.md>)
   - [Compassion](<Core Values/Compassion.md>)
