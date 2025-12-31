@@ -15,5 +15,5 @@ To be aligned in word and action with this code of ethics. To know and follow lo
 [Read more](<Responsibility.md>)
 
 ## Excellence
-To be an eternal learner, applying the highest level of appropriate rigour in all things.
+To be a perennial learner, applying the highest level of appropriate rigour in all things.
 [Read more](<Excellence.md>)
