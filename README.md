@@ -7,25 +7,14 @@ This document is born out of a university classroom teaching professional practi
 
 ## Table of Contents
 - Introduction
-  - [Mission Statement](Introduction/Mission%20Statement.md)
-  - [Vision Statement](Introduction/Vision%20Statement.md)
-  - [Target Audience](Introduction/Target%20Audience.md)
-- Core Values
-  - Adherence to the core values
-      - Honesty
-      - Compassion
-      - Respect
-      - Responsibility
-      - Excellence
-  - Issues with repect to the core values
-      - Plaigiarism
-      - Conflicts of Interest
-        - Definition
-        - Moderation
-        - Computer Scientists as Politicians
-        - Computer Scientists as Advocates
-      - Termination of services
-      - Disclosure and Privacy
+  - [Mission Statement](<Introduction/Mission Statement.md>)
+  - [Vision Statement](<Introduction/Vision Statement.md>)
+  - [Target Audience](<Introduction/Target Audience.md>)
+- [Core Values](<Core Values/README.md>)
+  - [Honesty](<Core Values/Honesty.md>)
+  - [Compassion](<Core Values/Compassion.md>)
+  - [Responsibility](<Core Values/Responsibility.md>)
+  - [Excellence](<Core Values/Excellence.md>)
 - Marketing services as a Computer Scientist
 - Public appearance and statements
 - Case Studies on Questionable Conduct
