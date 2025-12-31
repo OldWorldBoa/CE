@@ -6,12 +6,12 @@ The Code of Ethics for the Assciation of Computer Science Ethics
 This document is born out of a university classroom teaching professional practices in computer science. It is envisioned as a replacement for any current (as of March 2017) Code of Ethics that could be applied to computer science. Current Codes of Ethics that have been proposed are neither cohesive nor comprehensive such as the CIPS Code of Ethics and the 10 commandments of computer ethics.
 
 ## Table of Contents
-1. Introduction
-    - [Mission Statement](Introduction/Mission%20Statement.md)
-    - [Vision Statement](Introduction/Vision%20Statement.md)
-    - [Target Audience](Introduction/Target%20Audience.md)
-    - Interpretation (Organization and Important Definitions)
-2. Core Values
+- Introduction
+  - [Mission Statement](Introduction/Mission%20Statement.md)
+  - [Vision Statement](Introduction/Vision%20Statement.md)
+  - [Target Audience](Introduction/Target%20Audience.md)
+  - Interpretation (Organization and Important Definitions)
+- Core Values
   - Adherence to the core values
       - Honesty
       - Compassion
@@ -27,10 +27,10 @@ This document is born out of a university classroom teaching professional practi
         - Computer Scientists as Advocates
       - Termination of services
       - Disclosure and Privacy
-4. Marketing services as a Computer Scientist
-5. Public appearance and statements
-6. Case Studies on Questionable Conduct
-7. Fees
+- Marketing services as a Computer Scientist
+- Public appearance and statements
+- Case Studies on Questionable Conduct
+- Fees
   
 ## Scope
 
