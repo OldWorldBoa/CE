@@ -12,4 +12,4 @@ The Code of Ethics for the Assciation of Computer Science Ethics
 - Marketing services as a Computer Scientist
 - Public appearance and statements
 - Case Studies on Questionable Conduct
-- Fees
+- Membership
